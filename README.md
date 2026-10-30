@@ -141,6 +141,13 @@ curl -X GET http://localhost:8080/api/assistente/resumo
 
 ---
 
+## 📸 Demonstração do Sistema
+
+<img width="1886" height="902" alt="Captura de tela 2026-10-30 181040" src="https://github.com/user-attachments/assets/ae28c624-235a-43e5-8a6b-fc603370b93f" />
+
+
+---
+
 ## 👤 Autor
 
 **Victor Antonio Campos**  
